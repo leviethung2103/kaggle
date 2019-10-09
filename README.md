@@ -9,7 +9,7 @@ The code is written in jupyter notebook.
 I've got 96.757 % accuracy in digit detection
 
 
-![](/media/hunglv/49418012-cfa6-4af1-86d8-c0fb55ae6501/Kaggle/kaggle/img/Selection_045.png
+![/img/Selection_045](/img/Selection_045.png
 )
 
 
