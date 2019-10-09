@@ -1,4 +1,4 @@
-# Digit Recognizer - Kaggle Competition
+Digit Recognizer - Kaggle Competition
 
 Download Datasets I've created at: https://drive.google.com/file/d/1qvwEx36fjehIntfdFDDWLIrsuFd7c6dk/view?usp=sharing
 
@@ -8,7 +8,15 @@ The code is written in jupyter notebook.
 
 I've got 96.757 % accuracy in digit detection
 
-![uploaded image](https://pasteboard.co/IB7iwCE.png)
+
+![](/media/hunglv/49418012-cfa6-4af1-86d8-c0fb55ae6501/Kaggle/kaggle/img/Selection_045.png
+)
+
+
+
+
+
+
 
 
 
